@@ -71,7 +71,6 @@
 ### IDE
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-green?logo=AndroidStudio&logoColor=white)
 
 ### FrameWork
 
