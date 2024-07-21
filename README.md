@@ -83,8 +83,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-green?logo=AndroidStudio&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
 
 ### DB
 
