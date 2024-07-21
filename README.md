@@ -21,7 +21,6 @@
 - `AOP(유효성검사)`
 - `JWT`
 - `MVC 패턴을 사용한 SSR 구현`
-- `MVVM 패턴을 이용한 Flutter 서버 통신`
 - `통합 테스트 (API 문서 (RestDoc))`
 
 <br>
